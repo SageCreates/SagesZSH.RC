@@ -1,1 +1,3 @@
-# ZSH.RC
+# Sage's ZSH.RC
+
+A work in progress.
